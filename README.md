@@ -1,2 +1,5 @@
 # hello-world
-Repository for the hello world project.
+
+Hola amigitos!
+
+Soy Champagne Jackson. Me gusta bailar bachata y comer chicharrones.
